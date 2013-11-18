@@ -1,9 +1,10 @@
 #include<stdio.h>
 int main(){
 
-printf("A=100\n");
-printf("B=100\n");
-printf("C=100\n");
+printf("Hello!1");
+printf("Hello!2");
+printf("Hello!3");
+printf("Hello!4");
 
 return 0;
 }
